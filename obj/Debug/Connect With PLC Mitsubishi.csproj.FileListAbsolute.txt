@@ -1,0 +1,24 @@
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\bin\Debug\Connect With PLC Mitsubishi.exe.config
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\bin\Debug\Connect With PLC Mitsubishi.exe
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\bin\Debug\Connect With PLC Mitsubishi.pdb
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.csproj.AssemblyReference.cache
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.csproj.ResolveComReference.cache
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Connect_With_PLC_Mitsubishi.Form1.resources
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Connect_With_PLC_Mitsubishi.Properties.Resources.resources
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.csproj.GenerateResource.cache
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.csproj.CoreCompileInputs.cache
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.exe
+C:\Users\20651\source\repos\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.pdb
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\bin\Debug\Connect With PLC Mitsubishi.exe.config
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\bin\Debug\Connect With PLC Mitsubishi.exe
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\bin\Debug\Connect With PLC Mitsubishi.pdb
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.csproj.AssemblyReference.cache
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.csproj.ResolveComReference.cache
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Connect_With_PLC_Mitsubishi.Form1.resources
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Connect_With_PLC_Mitsubishi.Properties.Resources.resources
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.csproj.GenerateResource.cache
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.csproj.CoreCompileInputs.cache
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.exe
+D:\Connect With PLC Mitsubishi\Connect With PLC Mitsubishi\obj\Debug\Connect With PLC Mitsubishi.pdb
